@@ -1,0 +1,23 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/background.jpg</file>
+        <file>images/ic_menu_black_48dp.png</file>
+        <file>images/icon_game.png</file>
+        <file>images/icon_info.png</file>
+        <file>images/icon_settings.png</file>
+        <file>images/ic_settings_black_48dp.png</file>
+        <file>images/shadow_long.png</file>
+        <file>images/shadow_title.png</file>
+        <file>layouts/en_DIGITS/handwriting.qml</file>
+        <file>layouts/en_DIGITS/main.qml</file>
+        <file>layouts/en_DIGITS/symbols.qml</file>
+        <file>layouts/en_GB/dialpad.qml</file>
+        <file>layouts/en_GB/digits.qml</file>
+        <file>layouts/en_GB/handwriting.qml</file>
+        <file>layouts/en_GB/main.qml</file>
+        <file>layouts/en_GB/numbers.qml</file>
+        <file>layouts/en_GB/symbols.qml</file>
+        <file>samples/ble_iq_10M.bin</file>
+        <file>images/bt.png</file>
+    </qresource>
+</RCC>

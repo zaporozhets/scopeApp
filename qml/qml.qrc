@@ -1,0 +1,27 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>MultiButton.qml</file>
+        <file>NumberField.qml</file>
+        <file>qml.qrc</file>
+        <file>ScopeView.qml</file>
+        <file>SlideMenu.qml</file>
+        <file>Style.qml</file>
+        <file>qmldir</file>
+        <file>About.qml</file>
+        <file>SliderWithText.qml</file>
+        <file>Settings.qml</file>
+        <file>SettingsForm.ui.qml</file>
+        <file>GeneralTime.qml</file>
+        <file>GeneralTimeForm.ui.qml</file>
+        <file>GeneralSpectrum.qml</file>
+        <file>GeneralSpectrumForm.ui.qml</file>
+        <file>DoubleSpinBox.qml</file>
+        <file>BleRx.qml</file>
+        <file>BleRxForm.ui.qml</file>
+        <file>ControlPanel.qml</file>
+        <file>BleDut.qml</file>
+        <file>BleDutForm.ui.qml</file>
+    </qresource>
+    <qresource prefix="/controls"/>
+</RCC>
